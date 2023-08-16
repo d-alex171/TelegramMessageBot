@@ -1,0 +1,15 @@
+import time
+
+print('calculating the theorem...')
+time.sleep(2)
+print('establishing connection...')
+time.sleep(2)
+print('calculating latitude...')
+time.sleep(2)
+print('hacking into the mainframe...')
+time.sleep(2)
+print('exporting WGH from CVD...')
+time.sleep(2)
+print('calculating the result...')
+time.sleep(5)
+print('22=1')
